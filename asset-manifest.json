@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Qisma/static/css/main.e49cb834.css",
+    "main.js": "/Qisma/static/js/main.66534567.js",
+    "static/js/453.3241550e.chunk.js": "/Qisma/static/js/453.3241550e.chunk.js",
+    "static/media/thumbnail.jpg": "/Qisma/static/media/thumbnail.5aed9f1231817c36561e.jpg",
+    "static/media/fa-solid-900.ttf": "/Qisma/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/Qisma/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Qisma/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/a5.jpg": "/Qisma/static/media/a5.6c6fe33762d9ba32c1d0.jpg",
+    "static/media/fa-brands-400.woff2": "/Qisma/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/a3.jpg": "/Qisma/static/media/a3.316482f1e9c0a088e9c8.jpg",
+    "static/media/a2.jpg": "/Qisma/static/media/a2.74eb7101194caab90007.jpg",
+    "static/media/login.jpg": "/Qisma/static/media/login.4adca6bd42f4b15f22f4.jpg",
+    "static/media/fa-regular-400.ttf": "/Qisma/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/a4.jpg": "/Qisma/static/media/a4.f2a1f4a594033d0c35b0.jpg",
+    "static/media/a1.jpg": "/Qisma/static/media/a1.cd9cfef92fd5a076120e.jpg",
+    "static/media/fa-regular-400.woff2": "/Qisma/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Qisma/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Qisma/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/Qisma/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Qisma/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Qisma/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Qisma/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Qisma/index.html",
+    "main.e49cb834.css.map": "/Qisma/static/css/main.e49cb834.css.map",
+    "main.66534567.js.map": "/Qisma/static/js/main.66534567.js.map",
+    "453.3241550e.chunk.js.map": "/Qisma/static/js/453.3241550e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49cb834.css",
+    "static/js/main.66534567.js"
+  ]
+}
