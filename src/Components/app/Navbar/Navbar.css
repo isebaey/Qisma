@@ -1,0 +1,107 @@
+.navbar {
+  background-color: #f7f7f5;
+  text-decoration: none;
+  padding: 10px 0;
+}
+
+.container-f {
+  padding: 0 40px;
+}
+
+.brand {
+  color: #000;
+  font-weight: bold;
+  font-size: 28px !important;
+  transition: color 0.3s ease;
+}
+
+.brand:hover {
+  color: #8a2be2;
+}
+
+.toggler {
+  border: none;
+}
+
+.togglerIcon {
+  color: #000;
+  font-size: 28px;
+}
+
+.navLink {
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navLink:hover {
+  color: #8a2be2;
+}
+
+.navList {
+  margin-right: 20px;
+}
+
+.cartAndLogout {
+  display: flex;
+  align-items: center;
+  color: #000;
+}
+
+.cartIcon {
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.logoutLink {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.logoutLink:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.active {
+  color: #8a2be2 !important;
+  font-weight: bold;
+}
+
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.navbar a {
+  transition: color 0.3s ease;
+}
+
+.navbar-brand,
+.nav-link {
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  transform: scale(1.05);
+}
+
+/* badge */
+
+.v-badge {
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(to bottom, #725fbf, #5340a1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.wish-badge {
+  padding-inline: 4px;
+  padding-block: 2px;
+  border-radius: 99px;
+}

@@ -1,0 +1,39 @@
+.brand-item-container {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.brand-item-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.brand-item-loader {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.brand-item-details {
+  text-align: center;
+}
+
+.brand-item-name {
+  font-size: 24px;
+  color: #333;
+}
+
+.brand-item-description {
+  font-size: 18px;
+  color: #666;
+}
+
+.brand-item-image {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+}

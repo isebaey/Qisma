@@ -1,0 +1,95 @@
+/* Footer.module.css */
+
+.footer {
+  background-color: #212529; /* Dark gray background */
+  color: #fff; /* White text */
+  padding: 50px 0;
+}
+
+.container {
+  padding: 0 20px;
+}
+
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footerSection {
+  width: 25%;
+  margin-bottom: 30px;
+}
+
+.sectionTitle {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.sectionLinks {
+  list-style: none;
+  padding: 0;
+}
+
+.sectionLinks li {
+  margin-bottom: 0.5rem;
+}
+
+.sectionLinks li a {
+  color: #ccc; /* Light gray text */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.sectionLinks li a:hover {
+  color: #fff; /* White text on hover */
+}
+
+.subscribeForm {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.emailInput {
+  width: 70%;
+  padding: 8px;
+  border-radius: 5px 0 0 5px;
+  border: none;
+}
+
+.subscribeButton {
+  width: 30%;
+  padding: 8px;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  background-color: #555; /* Dark gray button */
+  color: #fff; /* White text */
+  cursor: pointer;
+}
+
+.subscribeButton:hover {
+  background-color: #777; /* Dark gray button on hover */
+}
+
+.socialIcons {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.icon {
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
+
+.icon i {
+  transition: color 0.3s ease;
+}
+
+.icon i:hover {
+  color: #fff; /* White social icon on hover */
+}
+
+footer i {
+  color: white;
+}

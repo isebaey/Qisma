@@ -1,0 +1,5 @@
+thumbnail .h1,
+thumbnail p {
+  z-index: 3;
+  opacity: 1;
+}
